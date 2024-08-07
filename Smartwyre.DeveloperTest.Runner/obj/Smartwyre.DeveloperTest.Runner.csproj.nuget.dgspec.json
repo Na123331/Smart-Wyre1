@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest.Runner/Smartwyre.DeveloperTest.Runner.csproj": {}
+    "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest.Runner/Smartwyre.DeveloperTest.Runner.csproj": {}
   },
   "projects": {
-    "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest.Runner/Smartwyre.DeveloperTest.Runner.csproj": {
+    "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest.Runner/Smartwyre.DeveloperTest.Runner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest.Runner/Smartwyre.DeveloperTest.Runner.csproj",
+        "projectUniqueName": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest.Runner/Smartwyre.DeveloperTest.Runner.csproj",
         "projectName": "Smartwyre.DeveloperTest.Runner",
-        "projectPath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest.Runner/Smartwyre.DeveloperTest.Runner.csproj",
+        "projectPath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest.Runner/Smartwyre.DeveloperTest.Runner.csproj",
         "packagesPath": "/Users/ammarahmad/.nuget/packages/",
-        "outputPath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest.Runner/obj/",
+        "outputPath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest.Runner/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ammarahmad/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj": {
-                "projectPath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj"
+              "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj": {
+                "projectPath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj": {
+    "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj",
+        "projectUniqueName": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj",
         "projectName": "Smartwyre.DeveloperTest",
-        "projectPath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj",
+        "projectPath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj",
         "packagesPath": "/Users/ammarahmad/.nuget/packages/",
-        "outputPath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest/obj/",
+        "outputPath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ammarahmad/.nuget/NuGet/NuGet.Config"

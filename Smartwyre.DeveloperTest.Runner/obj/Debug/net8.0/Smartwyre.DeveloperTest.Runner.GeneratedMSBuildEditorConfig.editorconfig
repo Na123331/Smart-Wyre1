@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Smartwyre.DeveloperTest.Runner
-build_property.ProjectDir = /Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest.Runner/
+build_property.ProjectDir = /Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest.Runner/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

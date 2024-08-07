@@ -11,3 +11,16 @@
 /Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest/obj/Debug/net8.0/refint/Smartwyre.DeveloperTest.dll
 /Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest/obj/Debug/net8.0/Smartwyre.DeveloperTest.pdb
 /Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest/obj/Debug/net8.0/ref/Smartwyre.DeveloperTest.dll
+/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/bin/Debug/net8.0/Smartwyre.DeveloperTest.deps.json
+/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/bin/Debug/net8.0/Smartwyre.DeveloperTest.dll
+/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/bin/Debug/net8.0/Smartwyre.DeveloperTest.pdb
+/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/obj/Debug/net8.0/Smartwyre.DeveloperTest.csproj.AssemblyReference.cache
+/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/obj/Debug/net8.0/Smartwyre.DeveloperTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/obj/Debug/net8.0/Smartwyre.DeveloperTest.AssemblyInfoInputs.cache
+/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/obj/Debug/net8.0/Smartwyre.DeveloperTest.AssemblyInfo.cs
+/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/obj/Debug/net8.0/Smartwyre.DeveloperTest.csproj.CoreCompileInputs.cache
+/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/obj/Debug/net8.0/Smartwyre.DeveloperTest.sourcelink.json
+/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/obj/Debug/net8.0/Smartwyre.DeveloperTest.dll
+/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/obj/Debug/net8.0/refint/Smartwyre.DeveloperTest.dll
+/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/obj/Debug/net8.0/Smartwyre.DeveloperTest.pdb
+/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest/obj/Debug/net8.0/ref/Smartwyre.DeveloperTest.dll

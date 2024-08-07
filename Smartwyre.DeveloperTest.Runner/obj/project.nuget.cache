@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+lTKTFXO/6k=",
+  "dgSpecHash": "HyqsS8BqKjA=",
   "success": true,
-  "projectFilePath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest.Runner/Smartwyre.DeveloperTest.Runner.csproj",
+  "projectFilePath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/GITHUB/Rebate_Calculator/Smartwyre.DeveloperTest.Runner/Smartwyre.DeveloperTest.Runner.csproj",
   "expectedPackageFiles": [
     "/Users/ammarahmad/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],

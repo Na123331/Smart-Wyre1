@@ -11,10 +11,12 @@ namespace Smartwyre.DeveloperTest.Runner
     class Program
     {
         static void Main(string[] args)
-        {
+        {   //Liskov Substitution Principle (LSP)
+            // All rebate calculators can be used interchangeably without altering the correctness of the program.
             IRebateDataStore rebateDataStore = new RebateDataStore();
             IProductDataStore productDataStore = new ProductDataStore();
-
+            //Open/Closed Principle (OCP)
+            // The system is open for extension by allowing new rebate calculators to be added without modifying existing code.
             var calculators = new Dictionary<IncentiveType, IRebateCalculator>
             {
                 { IncentiveType.FixedCashAmount, new FixedCashAmountCalculator() },
